@@ -16,11 +16,11 @@ for human pathogenic E. coli". Eng. In: _Frontiers in Cellular and
 Infection Microbiology_ 5 (2015), p. 23. ISSN: 2235-2988. DOI:
 10.3389/fcimb.2015.00023.
 
-[3] S. Rödiger, M. Burdukiewicz, K. Blagodatskikh, et al. "R as an
+[3] S. RÃ¶diger, M. Burdukiewicz, K. Blagodatskikh, et al. "R as an
 Environment for the Reproducible Analysis of DNA Amplification
 Experiments". In: _The R Journal_ 7.2 (2015), pp. 1-24.
 
-[4] S. Rödiger, M. Burdukiewicz and P. Schierack. "chipPCR: an R
+[4] S. RÃ¶diger, M. Burdukiewicz and P. Schierack. "chipPCR: an R
 package to pre-process raw data of amplification curves". ENG. In:
 _Bioinformatics (Oxford, England)_ (Apr. 2015). ISSN: 1367-4811.
 DOI: 10.1093/bioinformatics/btv205.

@@ -7,7 +7,7 @@ title: "Publications"
 library(knitcitations)
 library(RefManageR)
 cleanbib()
-refs <- read.bibtex("dknb.bib")
+refs <- read.bibtex("dknb.bib", .Encoding = "UTF-8")
 BibOptions(sorting = "none")
 sort(refs, sorting = "ynt")
 ```
