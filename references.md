@@ -1,8 +1,10 @@
 ---
 title: "Publications"
+layout: default
 ---
 
-# List of references
+# Nasze publikacje
+
 [1] A. D. Urantowka, A. M. Kroczak and T. Strzala. "Complete
 mitochondrial genome of endangered Socorro Conure (Aratinga
 brevipes) - taxonomic position of the species and its relationship
