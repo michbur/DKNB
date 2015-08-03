@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+# List of references
+```{r, echo=FALSE,message=FALSE,warning=FALSE,results='asis'}
+library(knitcitations)
+library(RefManageR)
+cleanbib()
+refs <- read.bibtex("dknb.bib")
+BibOptions(sorting = "none")
+sort(refs, sorting = "ynt")
+```
