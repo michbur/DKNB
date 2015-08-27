@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Utworzenie DKNB"
+title: "Sminarium 'biogram: a toolkit for n-gram analysis'"
 date: 2015-08-27 15:27:00
 comments: true
 ---
