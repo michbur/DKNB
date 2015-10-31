@@ -8,10 +8,6 @@ body {
     min-height: 88px;
 }
 
-.nav {
-    margin-left: -90px;
-}
-
 .navbar .nav > .active > a {
     color: black;
     background-color: white;
