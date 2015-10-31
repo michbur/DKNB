@@ -18,6 +18,8 @@ body {
     min-height: 88px;
 }
 
+.navbar-brand {padding: 0 !important;}
+
 .copyright {
     color: #ffffff;
 }
