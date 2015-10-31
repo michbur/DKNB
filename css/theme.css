@@ -11,7 +11,7 @@ body {
  .nav{ margin-left: -5px;}
 
 .navbar .nav > .active > a {
-    color: CornflowerBlue;
+    color: blue;
     background-color: white;
     min-height: 88px;
 }
