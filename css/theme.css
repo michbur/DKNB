@@ -8,15 +8,15 @@ body {
     min-height: 88px;
 }
 
-.nav {
-    margin-left: -105px;
-}
+ .nav{ margin-left: -5px;}
 
 .navbar .nav > .active > a {
-    color: black;
+    color: #428bca;
     background-color: white;
     min-height: 88px;
 }
+
+.navbar-brand {padding: 0 !important;}
 
 .copyright {
     color: #ffffff;
