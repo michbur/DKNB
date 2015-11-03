@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seminarium 'n-gram analysis of amyloids'"
-date: 2015-10-12 12:27:00
+date: 2015-11-03 09:21:00
 comments: true
 ---
 

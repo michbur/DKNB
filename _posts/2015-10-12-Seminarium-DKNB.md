@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminarium 'biogram: a toolkit for n-gram analysis'"
+title: "Seminarium 'Signal peptides of Apicomplexa'"
 date: 2015-10-12 12:27:00
 comments: true
 ---
