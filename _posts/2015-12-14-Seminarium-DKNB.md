@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminarium 'Detection of premature stop codons'"
+title: "Seminarium 'Identification of regional structure in signal peptides'"
 date: 2015-12-14 07:20:43
 comments: true
 ---
