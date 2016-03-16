@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminarium 'biogram: N-Gram Analysis of Biological Sequences'"
+title: "Seminarium 'Limitation of tuning the antibody-antigen reaction by changing the value of pH and its consequence for hyperthermia'"
 date: 2016-03-16 07:18:00
 comments: true
 ---
