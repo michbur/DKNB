@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Utworzenie DKNB"
+title: "Walne Zebranie DKNB"
 date: 2016-02-03 09:45:00
 comments: true
 ---
