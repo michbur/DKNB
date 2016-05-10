@@ -9,7 +9,7 @@ Zainteresowania członków DKNB (Doktorackie Koło Naukowe Bioinformatyki) konce
 
 ## Zarząd DKNB
 
-Przewodniczący: Michał Burdukiewicz @[michbur](https://github.com/michbur)  
+Przewodniczący: Michał Burdukiewicz <michalburdukiewicz@gmail.com> @[michbur](https://github.com/michbur)  
 Zastępca Przewodniczącego Koła ds. naukowych: Aleksandra Kroczak.  
 Zastępca Przewodniczącego Koła ds. finansowych: Małgorzata Wnętrzak. 
 
