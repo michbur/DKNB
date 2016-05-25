@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminarium 'Predicting malarial signal peptides with signalHsmm'"
+title: "Seminarium 'Prediction of amyloidogenicity based on the n-gram analysis'"
 date: 2016-05-20 12:00:00
 comments: true
 ---
