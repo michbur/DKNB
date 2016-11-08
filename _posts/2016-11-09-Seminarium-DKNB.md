@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminarium 'Aggregation on leash: inhibition of amyloid aggregation'"
+title: "Seminarium 'n-gram analysis of biological sequences in R'"
 date: 2016-11-09 13:15:00
 comments: true
 ---
