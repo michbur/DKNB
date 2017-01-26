@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminarium 'n-gram analysis of biological sequences in R'"
+title: "Pierwsze spotkanie STWUR"
 date: 2017-01-20 13:14:00
 comments: true
 ---
