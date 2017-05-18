@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seminarium 'Modelling amyloidogenic scaffolds of biofilms'"
-date: 2017-04-26 11:00:00
+date: 2017-05-18 11:00:00
 comments: true
 ---
 
