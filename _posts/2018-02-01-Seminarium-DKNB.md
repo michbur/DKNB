@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminarium 'Prediction of amyloidogenicity based on the n-gram analysis'"
+title: "Seminarium 'Eksperymentalna weryfikacja amyloidogenności'"
 date: 2018-02-01 11:11:00
 comments: true
 ---
