@@ -43,3 +43,5 @@ mitochondrial genome of Red-throated Conure (Psittacara
 rubritorquis): its comparison with mitogenome of Socorro Conure
 (Psittacara brevipes)". ENG. In: _Mitochondrial DNA_ (2015), pp.
 1-2. ISSN: 1940-1744. DOI: 10.3109/19401736.2015.1018218.
+
+[8] Burdukiewicz, M., P. Gagat, S. Jabłoński, J. Chilimoniuk, M. Gaworski, P. Mackiewicz, and M. Łukaszewicz. "PhyMet2: a database and toolkit for phylogenetic and metabolic analyses of methanogens." Environmental Microbiology Reports, 2018. doi:10.1111/1758-2229.12648.
