@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "eRementarz #7: objaśnianie modeli uczenia maszynowego"
-date: 2017-05-15 11:22:00
+title: "eRementarz #7: Objaśnianie modeli uczenia maszynowego"
+date: 2018-05-25 22:00:00
 comments: true
 ---
   
