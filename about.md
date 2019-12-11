@@ -9,9 +9,13 @@ Zainteresowania członków DKNB (Doktorackie Koło Naukowe Bioinformatyki) konce
 
 ## Zarząd DKNB
 
-Przewodniczący: Jarosław Chilimoniuk <jaroslaw.chilimoniuk@gmail.com>   
-Zastępca Przewodniczącego Koła ds. naukowych: Aleksandra Kroczak.  
-Zastępca Przewodniczącego Koła ds. finansowych: Małgorzata Wnętrzak. 
+Przewodniczący: Jarosław Chilimoniuk <jaroslaw.chilimoniuk@gmail.com>.   
+
+Zastępca Przewodniczącego Koła ds. naukowych: Katarzyna Sidorczuk.  
+
+Wiceprzewodniczący Koła na Wydziale Biologii: Filip Pietluch.
+
+Wiceprzewodniczący Koła w Instytucie Matematyki: Mateusz Staniak.
 
 ## Opiekun DKNB
 
